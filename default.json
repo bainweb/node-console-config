@@ -1,0 +1,8 @@
+{
+    "object": {
+        "string": "Some String",
+        "array": ["Another string", 123]
+    },
+    "null": null,
+    "number": 42.3
+}
