@@ -8,7 +8,7 @@ const question = util.promisify(rl.question).bind(rl);
 
 if (process.argv.length < 4) {
     console.log("Usage: console-config <defaultsPath> <configPath>");
-    return;
+    return rl.close();
 }
 
 // main()
