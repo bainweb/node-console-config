@@ -1,6 +1,6 @@
 {
   "name": "console-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Configure node applications from the command line.",
   "bin": "index.js",
   "scripts": {
